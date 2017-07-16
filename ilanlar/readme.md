@@ -9,7 +9,10 @@
 ## Liste
 
 ### Güncellige göre sıralı liste (en güncel en yukarıda)
-+ [Senior scala developer](../blob/master/ilanlar/SIRKET_ISMI/scala-developer.md) - | [Scala](), [Backend]() | @ [Sirket ismi](../blob/master/ilanlar/SIRKET_ISMI)  Kadıköy / İstanbul (16-12-2099)
-+ [Junior scala developer](../blob/master/ilanlar/SIRKET_ISMI/scala-developer.md) - | [Scala](),  [Backend]() | @ [Sirket ismi](../blob/master/ilanlar/SIRKET_ISMI) 01-12-2099 
-+ [Ilan başligi / pozisyon](../blob/master/LICENSE) - anahtar kelimeler - (SIRKET_ISMI) (Guncelleme tarihi ) 
-+ [Ilan başligi / pozisyon](../blob/master/LICENSE) - anahtar kelimeler - (SIRKET_ISMI) (Guncelleme tarihi ) 
++ [Senior scala developer](../blob/master/ilanlar/SIRKET_ISMI/scala-developer.md) - [ [Scala](), [Backend]() ] # [Sirket ismi A.Ş.](../blob/master/ilanlar/SIRKET_ISMI) @ Kadıköy/İstanbul (16-12-2099)
++ [Junior scala developer](../blob/master/ilanlar/SIRKET_ISMI/scala-developer.md) - [ [Scala](),  [Backend]() ] # [Acme INC.](../blob/master/ilanlar/ACME_INC) @ Tunalı/Ankara 01-12-2099 
++ [Senior scala developer](../blob/master/ilanlar/SIRKET_ISMI/scala-developer.md) - [ [Scala](), [Backend]() ] # [Sirket ismi A.Ş.](../blob/master/ilanlar/SIRKET_ISMI) @ Kadıköy/İstanbul (16-12-2099)
++ [Junior scala developer](../blob/master/ilanlar/SIRKET_ISMI/scala-developer.md) - [ [Scala](),  [Backend]() ] # [Acme INC.](../blob/master/ilanlar/ACME_INC) @ Tunalı/Ankara 01-12-2099 
++ [Senior scala developer](../blob/master/ilanlar/SIRKET_ISMI/scala-developer.md) - [ [Scala](), [Backend]() ] # [Sirket ismi A.Ş.](../blob/master/ilanlar/SIRKET_ISMI) @ Kadıköy/İstanbul (16-12-2099)
++ [Junior scala developer](../blob/master/ilanlar/SIRKET_ISMI/scala-developer.md) - [ [Scala](),  [Backend]() ] # [Acme INC.](../blob/master/ilanlar/ACME_INC) @ Tunalı/Ankara 01-12-2099 
+
